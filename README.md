@@ -1,2 +1,3 @@
 # RandomStuff
-All the random programming stuff I have ever written :)
+All the random programming stuff I have ever written...
+В этот репозиторий входят те мои творения, которые сложно назвать программами - очередной 7о8н0код, не более :)
